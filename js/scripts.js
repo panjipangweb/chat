@@ -27,7 +27,7 @@ window.onload = function() {
     'I write stuff on the web',
     'I\'m currently writing articles.<br> You can read them here <a href="panji.my.id">click</a>',
     getCurrentTime(),
-    '👀 J.'
+    '👀 Panji.'
   ]
 
   var getFontSize = function() {
