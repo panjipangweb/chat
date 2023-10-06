@@ -25,7 +25,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Panji Ariyo',
     'I write stuff on the web',
-    'I\'m currently writing articles.<br> You can read them here <a href="panji.my.id">click</a>',
+    'I\'m currently writing articles.<br> You can read them here <a href="panji.my.id">click</a>', '<a target="_blank" href="panji.my.id">panji.my.id</a><br>
     getCurrentTime(),
     '👀 Panji.'
   ]
